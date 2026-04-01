@@ -1,6 +1,6 @@
 name: cal_app
 description: "A new Flutter project."
-publish_to: 'none' 
+publish_to: "none"
 version: 1.0.0+1
 
 environment:
@@ -21,7 +21,7 @@ icons_launcher:
       enable: true
     ios:
       enable: true
-  
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -31,4 +31,3 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/
-
