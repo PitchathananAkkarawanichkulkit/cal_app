@@ -1,17 +1,10 @@
-# cal_app
+# cal_app โปรแกรมคำนวณ BMI BMR
 
-A new Flutter project.
+<img width="1290" height="2796" alt="localhost_54369_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/b4b44aab-61a7-4ca6-98e4-4368601ae8dd" />
 
-## Getting Started
+<img width="1290" height="2796" alt="localhost_54369_(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/a59415c6-2e23-43bd-98e0-e4792ef9d058" />
 
-This project is a starting point for a Flutter application.
+<img width="1290" height="2796" alt="localhost_54369_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/c7a7a985-22b9-460d-b6d3-69e8e0e2dac9" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1290" height="2796" alt="localhost_54369_(iPhone 14 Pro Max) (3)" src="https://github.com/user-attachments/assets/289d40c7-e753-44ae-8ec3-c7ddb7ead2e3" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
